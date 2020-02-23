@@ -32,7 +32,7 @@
     "coveralls": "^3.0.9",
     "jenkins-mocha": "^8.0.0",
     "jshint": "^2.11.0",
-    "sinon": "^8.1.1"
+    "sinon": "^9.0.0"
   },
   "dependencies": {
     "css-color-names": "~1.0.1",
